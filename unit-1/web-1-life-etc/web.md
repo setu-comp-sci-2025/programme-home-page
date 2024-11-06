@@ -1,7 +1,7 @@
 ---
 icon: 
   type: ri:plant-fill
-  color: 2a6b6a
+  color: 9d578a
 ---
 Life etc...
 
