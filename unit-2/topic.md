@@ -1,1 +1,1 @@
-Semester One - January - June 2025
+Semester One - September 2025 - January 2026
