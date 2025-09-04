@@ -4,7 +4,7 @@ icon:
   color: 009656
 ---
 
-# Workshop One
+# Online Induction
 
 
 induction · structure · schedules · handbook
